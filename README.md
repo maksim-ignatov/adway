@@ -1,1 +1,2 @@
-# adway
+# AdWay
+Android, root
